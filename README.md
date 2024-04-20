@@ -29,4 +29,4 @@ To use the Music Genre Classification and Recommendation System, follow these st
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/music-genre-recommendation.git
+git clone https://github.com/Srinidhi-Krishnan30/Music-Genre-Classification.git
